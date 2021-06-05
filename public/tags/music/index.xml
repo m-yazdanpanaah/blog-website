@@ -8,7 +8,7 @@
       <managingEditor>m.yazdanpanaah@gmail.com (Mojtaba Yazdanpanah)</managingEditor>
       <webMaster>m.yazdanpanaah@gmail.com (Mojtaba Yazdanpanah)</webMaster>
       <lastBuildDate>Sun, 02 May 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="undefined/tags/design/index.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="undefined/tags/music/index.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>undefined/blog/project-case-studies/shoor-case-study</guid>
@@ -18,16 +18,6 @@
     <pubDate>Sun, 02 May 2021 00:00:00 GMT</pubDate>
     <author>m.yazdanpanaah@gmail.com (Mojtaba Yazdanpanah)</author>
     <category>Case Study</category><category>UX</category><category>UI</category><category>Design</category><category>Music</category>
-  </item>
-
-  <item>
-    <guid>undefined/blog/project-case-studies/housmart-case-study</guid>
-    <title>Housmart, Smart house app design</title>
-    <link>undefined/blog/project-case-studies/housmart-case-study</link>
-    <description>Looking for a performant, out of the box template, with all the best in web technology?</description>
-    <pubDate>Tue, 12 Jan 2021 00:00:00 GMT</pubDate>
-    <author>m.yazdanpanaah@gmail.com (Mojtaba Yazdanpanah)</author>
-    <category>UX</category><category>UI</category><category>Design</category>
   </item>
 
     </channel>
