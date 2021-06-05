@@ -5,7 +5,7 @@ import Link from '@/components/Link'
 import Card from '@/components/Card'
 import { PageSeo } from '@/components/SEO'
 
-export default function Projects() {
+export default function Index() {
   return (
     <>
       <PageSeo
